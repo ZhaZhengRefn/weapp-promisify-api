@@ -1,15 +1,14 @@
 {
   "name": "weapp-promisify",
   "version": "1.0.0",
-  "description": "",
+  "description": "promisify all apis of wx",
   "main": "./lib/app.js",
   "scripts": {
     "build": "rollup -c ./config.js",
-    "build:dev": "NODE_ENV=development rollup -c ./config.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:dev": "NODE_ENV=development rollup -c ./config.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "zheng_refn",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-plugin-external-helpers": "^6.22.0",
