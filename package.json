@@ -1,5 +1,5 @@
 {
-  "name": "weapp-promisify",
+  "name": "wxapp-promisify",
   "version": "1.0.1",
   "description": "promisify all apis of wx",
   "main": "./lib/app.js",
